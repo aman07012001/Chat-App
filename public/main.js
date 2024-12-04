@@ -31,7 +31,7 @@ function addMessageToUi(isSend,data){
           </li> `
           
 messageContainer.innerHTML+=element    
-messageContainer.body.style.backgroundColor="green"      
+   
       
 }
 
